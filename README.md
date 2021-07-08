@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 [![Josh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jps725&theme=yeblu)](https://github.com/jps725/github-readme-stats)
  -->
  
- <h1 align="center">Hi 👋, I'm Josh</h1>
+ <h1 align="center">Hi there 👋, I'm Josh</h1>
 <h3 align="center">An excited and determined software engineer that maintains an inquisitive and creative thought process, with a desire to continue to build my skills and thrive.</h3>
 
-- 👨‍💻 All of my projects are available at [https://jps725.github.io/](https://jps725.github.io/)
+- 👨‍💻 All of my projects are available [here](https://jps725.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jps725&count_private=true&show_icons=true&theme=algolia&locale=en" alt="jps725" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jps725&" alt="jps725" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jps725&theme=yeblu" alt="jps725" /></p>
